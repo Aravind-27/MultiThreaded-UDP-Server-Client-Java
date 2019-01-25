@@ -13,7 +13,7 @@ import data.PacketHandler;
 
 /**
  * A class for handling a multi-threaded instance of a UDP client
- * @author Chiranjeevi Ramamurthy
+ * @author Chiranjeevi Ramamurth
  *
  */
 public class ThreadedUDPClient implements Runnable {
